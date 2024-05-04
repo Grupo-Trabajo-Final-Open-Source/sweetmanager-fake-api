@@ -1,1 +1,0 @@
-# sweetmanager-fake-api
